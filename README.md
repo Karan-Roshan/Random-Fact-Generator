@@ -25,7 +25,7 @@ The program then fetches and displays those facts one by one using a public API.
 <p align="center">
   <img src="Generator (Preview).png" 
        alt="Generator Preview" 
-       width="300">
+       >
 </p>
 
 
