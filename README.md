@@ -23,7 +23,7 @@ The program then fetches and displays those facts one by one using a public API.
 
 ## Sample Output
 <p align="center">
-  <img src="Random-Face-Generator/Generator (Preview).png" 
+  <img src="Generator (Preview).png" 
        alt="Generator Preview" 
        width="300">
 </p>
